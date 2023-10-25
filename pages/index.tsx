@@ -93,3 +93,4 @@ export const getStaticProps = wrapper.getStaticProps(
 );
 
 console.log("welcome");
+console.log("London");
