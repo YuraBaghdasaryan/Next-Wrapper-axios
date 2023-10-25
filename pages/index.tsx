@@ -91,3 +91,5 @@ export const getStaticProps = wrapper.getStaticProps(
       store.dispatch(getCategories(data1));
     }
 );
+
+console.log("welcome");
